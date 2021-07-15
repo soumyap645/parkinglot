@@ -1,0 +1,4 @@
+//run command.text//
+
+
+python3.6 process_input.py commands.txt
